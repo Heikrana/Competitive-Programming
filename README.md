@@ -1,6 +1,7 @@
 # Competitive-Programming
 Different resources ( curated by myself ) for competitive programming and DSA
 
+* https://discuss.codechef.com/t/data-structures-and-algorithms/6599
 * https://www.codechef.com/certification/data-structures-and-algorithms/prepare
 * https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1
 * https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/#vector
