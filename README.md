@@ -11,3 +11,6 @@ Different resources ( curated by myself ) for competitive programming and DSA
 * https://codeforces.com/blog/entry/53551
 * https://visualgo.net/en/list
 * https://github.com/lnishan/awesome-competitive-programming
+
+## Youtube Channels
+* https://codeforces.com/blog/entry/43578
