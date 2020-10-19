@@ -10,3 +10,5 @@ https://www.techgig.com/practice/cpp/stl
 https://codeforces.com/blog/entry/53551
 
 https://visualgo.net/en/list
+
+https://github.com/lnishan/awesome-competitive-programming
